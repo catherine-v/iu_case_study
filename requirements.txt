@@ -1,0 +1,5 @@
+git+https://github.com/openfoodfacts/openfoodfacts-python.git@v0.4.0
+pandas==2.2.2
+pydantic==2.8.2
+psycopg2==2.9.3
+SQLAlchemy==2.0.31
